@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Brice Djomo from Canada, I'm currently in my second year at Algonquin College studying computer engineering
+I'm Brice Djomo from Canada, I'm currently in my second year at Algonquin College studying Computer Engineering
 
 Currently an inten as an IT Tech Analyst at AAFC
 
